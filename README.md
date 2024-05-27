@@ -10,7 +10,7 @@
 # Web前端
 
 
--   `MDN Web Docs`：[https://developer.mozilla.org/zh-CN/](hhttps://developer.mozilla.org/zh-CN/)
+-   `MDN Web Docs`：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
 -   `HTML`： [https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 -   `JavaScript`：[https://developer.mozilla.org/zh-CN/docs/Web/JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 -   `CSS`： [https://developer.mozilla.org/zh-CN/docs/Web/CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
