@@ -1,4 +1,4 @@
-# Java
+# JAVA
 
 
 -   `The Java™ Tutorials`：[https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
@@ -29,6 +29,12 @@
 # Groovy
 
 - `Groovy(a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. )`:[https://groovy-lang.org/](https://groovy-lang.org/)
+
+# Rust
+
+- `Rust(The Rust Programming Language)`：[https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
+- `Cargo(Cargo is the Rust package manager)`：[https://doc.rust-lang.org/cargo/index.html](https://doc.rust-lang.org/cargo/index.html)
+- `Rust by Example`：[https://doc.rust-lang.org/rust-by-example/index.html](https://doc.rust-lang.org/rust-by-example/index.html)
 
 # Nodejs
 
