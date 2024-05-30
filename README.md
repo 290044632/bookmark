@@ -26,6 +26,12 @@
 - `ECMAScript® 2025 Language Specification`：[https://tc39.es/ecma262/](https://tc39.es/ecma262/)
 - `ECMAScript proposals`：[https://github.com/tc39/proposals?tab=readme-ov-file](https://github.com/tc39/proposals?tab=readme-ov-file)
 
+# Redis
+
+- `Develop with Redis`：[https://redis.io/docs/latest/develop/](https://redis.io/docs/latest/develop/)
+- `Libraries and tools`：[https://redis.io/docs/latest/integrate/](https://redis.io/docs/latest/integrate/)
+- `Commands`：[https://redis.io/docs/latest/commands/](https://redis.io/docs/latest/commands/)
+
 # Groovy
 
 - `Groovy(a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. )`:[https://groovy-lang.org/](https://groovy-lang.org/)
