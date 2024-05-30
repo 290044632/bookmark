@@ -51,6 +51,7 @@
 # wikipedia
 
 -   `Just-in-time compilation`：[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+-   `Work stealing（a scheduling strategy for multithreaded computer programs）`： [https://en.wikipedia.org/wiki/Work_stealing](https://en.wikipedia.org/wiki/Work_stealing)
 
 # RFC
 
