@@ -42,6 +42,13 @@
 - `Dubbo 2.x`：[https://dubbo.apache.org/zh-cn/docsv2.7/](https://dubbo.apache.org/zh-cn/docsv2.7/)
 - `Dubbo 2.6(dubbo-filter)`：[https://dubbo.apache.org/zh-cn/blog/2018/07/01/%E7%AC%AC%E4%B8%80%E4%B8%AA-dubbo-filter/](https://dubbo.apache.org/zh-cn/blog/2018/07/01/%E7%AC%AC%E4%B8%80%E4%B8%AA-dubbo-filter/)
 
+# MySQL
+
+- `MySQL Documentation`：[https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
+- `MySQL Documentation Archive`：[https://dev.mysql.com/doc/index-archive.html](https://dev.mysql.com/doc/index-archive.html)
+- `MySQL 5.7 Reference Manual`：[https://dev.mysql.com/doc/refman/5.7/en/](https://dev.mysql.com/doc/refman/5.7/en/)
+- `MySQL 5.6 Reference Manual`：[https://downloads.mysql.com/docs/refman-5.6-en.a4.pdf](https://downloads.mysql.com/docs/refman-5.6-en.a4.pdf)
+  
 # Rust
 
 - `Rust(The Rust Programming Language)`：[https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
