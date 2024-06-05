@@ -31,6 +31,7 @@
 - `Develop with Redis`：[https://redis.io/docs/latest/develop/](https://redis.io/docs/latest/develop/)
 - `Libraries and tools`：[https://redis.io/docs/latest/integrate/](https://redis.io/docs/latest/integrate/)
 - `Commands`：[https://redis.io/docs/latest/commands/](https://redis.io/docs/latest/commands/)
+- `Another Redis Desktop Manager`：[https://goanother.com/](https://goanother.com/)
 
 # Groovy
 
@@ -59,6 +60,10 @@
 
 - `Node.js Documentation`：[https://nodejs.org/docs/latest/api/](https://nodejs.org/docs/latest/api/)
 
+# Yarn
+
+- `Yarn`：[https://classic.yarnpkg.com/en/docs/install#debian-stable](https://classic.yarnpkg.com/en/docs/install#debian-stable)
+  
 # Apache CouchDB
 
 - `Apache CouchDB`：[https://docs.couchdb.org/en/stable/intro/tour.html](https://docs.couchdb.org/en/stable/intro/tour.html)
