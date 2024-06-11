@@ -32,6 +32,8 @@
 - `Libraries and tools`：[https://redis.io/docs/latest/integrate/](https://redis.io/docs/latest/integrate/)
 - `Commands`：[https://redis.io/docs/latest/commands/](https://redis.io/docs/latest/commands/)
 - `Another Redis Desktop Manager`：[https://goanother.com/](https://goanother.com/)
+- `Distributed Locks with Redis`：[https://redis.io/docs/latest/develop/use/patterns/distributed-locks/](https://redis.io/docs/latest/develop/use/patterns/distributed-locks/)
+- `RESP(Redis serialization protocol specification)`：[https://redis.io/docs/latest/develop/reference/protocol-spec/](https://redis.io/docs/latest/develop/reference/protocol-spec/)
 
 # Groovy
 
