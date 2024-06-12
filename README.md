@@ -1,14 +1,16 @@
 # JAVA
 
-
 -   `The Java™ Tutorials`：[https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
 -   `Java Language and Virtual Machine Specifications`：[https://docs.oracle.com/javase/specs/index.html](https://docs.oracle.com/javase/specs/index.html)
 -   `Java Language Updates`：[https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B)
 -   `The Checker Framework`：[https://checkerframework.org](https://checkerframework.org)
 -   `The Java Version Almanac`: [https://javaalmanac.io/jdk/](https://javaalmanac.io/jdk/)
 
-# Web前端
+# Java Frameworks
 
+- `hippo4j(Thread Pool)`：[https://hippo4j.cn/docs/user_docs/intro](https://hippo4j.cn/docs/user_docs/intro)
+  
+# Web前端
 
 -   `MDN Web Docs`：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
 -   `HTML`： [https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
