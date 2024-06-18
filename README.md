@@ -9,6 +9,9 @@
 # Java Frameworks
 
 - `Spring`：[https://spring.io/projects](https://spring.io/projects)
+- `Caffeine(Cache)`：[https://github.com/ben-manes/caffeine/](https://github.com/ben-manes/caffeine/)
+- `Guava(Cache)`：[https://github.com/google/guava/wiki](https://github.com/google/guava/wiki)
+- `ehcache(Cache)`：[https://www.ehcache.org/documentation/](https://www.ehcache.org/documentation/)
 - `hippo4j(Thread Pool)`：[https://hippo4j.cn/docs/user_docs/intro](https://hippo4j.cn/docs/user_docs/intro)
   
 # Web前端
