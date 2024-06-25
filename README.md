@@ -107,5 +107,9 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # RDF(Resource Description Framework)
 
-- `RDF/XML(RDFa)`：[https://rdfa.info/docs](https://rdfa.info/docs)
+- `RDFa`：[https://rdfa.info/docs](https://rdfa.info/docs)
 - `JSON-LD`：[https://json-ld.org/learn.html](https://json-ld.org/learn.html)
+- `RDF/XML`：[https://www.w3.org/TR/rdf-syntax-grammar/](https://www.w3.org/TR/rdf-syntax-grammar/)
+- `N-Triples`：[https://www.w3.org/TR/n-triples/](https://www.w3.org/TR/n-triples/)
+- `Turtle`：[https://www.w3.org/TR/turtle/](https://www.w3.org/TR/turtle/)
+- `Apache Common RDF`：[https://commons.apache.org/proper/commons-rdf/](https://commons.apache.org/proper/commons-rdf/)
