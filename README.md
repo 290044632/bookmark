@@ -13,7 +13,8 @@
 - `Guava(Cache)`：[https://github.com/google/guava/wiki](https://github.com/google/guava/wiki)
 - `ehcache(Cache)`：[https://www.ehcache.org/documentation/](https://www.ehcache.org/documentation/)
 - `hippo4j(Thread Pool)`：[https://hippo4j.cn/docs/user_docs/intro](https://hippo4j.cn/docs/user_docs/intro)
-  
+- `Lettuce(Lettuce is a scalable thread-safe Redis client based on netty and Reactor.)`：[https://lettuce.io/core/release/reference/index.html](https://lettuce.io/core/release/reference/index.html)
+    
 # Web
 
 -   `MDN Web Docs`：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
