@@ -114,3 +114,9 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Turtle`：[https://www.w3.org/TR/turtle/](https://www.w3.org/TR/turtle/)
 - `Apache Common RDF`：[https://commons.apache.org/proper/commons-rdf/](https://commons.apache.org/proper/commons-rdf/)
 - `Apache Jena`：[https://jena.apache.org/getting_started/index.html](https://jena.apache.org/getting_started/index.html)
+
+# GNOME
+
+- `GNOME Extensions`：[https://extensions.gnome.org/](https://extensions.gnome.org/)
+- `GJS`：[https://gjs-docs.gnome.org/gjs/](https://gjs-docs.gnome.org/gjs/)
+- 
