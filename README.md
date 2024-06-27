@@ -1,4 +1,4 @@
-# JAVA
+# Java
 
 -   `The Java™ Tutorials`：[https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
 -   `Java Language and Virtual Machine Specifications`：[https://docs.oracle.com/javase/specs/index.html](https://docs.oracle.com/javase/specs/index.html)
