@@ -85,6 +85,7 @@
 
 -   `Just-in-time compilation`：[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
 -   `Work stealing（a scheduling strategy for multithreaded computer programs）`： [https://en.wikipedia.org/wiki/Work_stealing](https://en.wikipedia.org/wiki/Work_stealing)
+-   `List_of_command-line_interpreters`： [https://en.wikipedia.org/wiki/List_of_command-line_interpreters](https://en.wikipedia.org/wiki/List_of_command-line_interpreters)
 
 # RFC
 
@@ -120,4 +121,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `GNOME Extensions`：[https://extensions.gnome.org/](https://extensions.gnome.org/)
 - `GJS`：[https://gjs-docs.gnome.org/gjs/](https://gjs-docs.gnome.org/gjs/)
-- 
+
+# Shell(/etc/shells)
+
+- `Bash Shell(Bash Reference Manual)`：[https://www.gnu.org/software/bash/manual/bash.html](https://www.gnu.org/software/bash/manual/bash.html) 
