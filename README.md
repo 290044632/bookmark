@@ -124,4 +124,6 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # Shell(/etc/shells)
 
-- `Bash Shell(Bash Reference Manual)`：[https://www.gnu.org/software/bash/manual/bash.html](https://www.gnu.org/software/bash/manual/bash.html) 
+- `bash Shell(Bash Reference Manual)`：[https://www.gnu.org/software/bash/manual/bash.html](https://www.gnu.org/software/bash/manual/bash.html)
+- `dash Shell`：[https://man.archlinux.org/man/dash.1](https://man.archlinux.org/man/dash.1)
+- `rbash(Restricted Shell)`：[https://www.gnu.org/software/bash/manual/html_node/The-Restricted-Shell.html](https://www.gnu.org/software/bash/manual/html_node/The-Restricted-Shell.html)
