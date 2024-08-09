@@ -3,6 +3,7 @@
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
 - `中华人民共和国劳动合同法`：[https://www.mohrss.gov.cn//xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622.html](https://www.mohrss.gov.cn//xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394622.html)
 - `中华人民共和国劳动法`：[https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394625.html](https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/zcfg/fl/202011/t20201102_394625.html)
+- `四川人社在线公共服务平台`：[http://www.sc.hrss.gov.cn/scggfw/system/toIndex.do](http://www.sc.hrss.gov.cn/scggfw/system/toIndex.do)
 
 # Java
 
