@@ -37,7 +37,8 @@
 -   `Browser extensions For Firefox`： [https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 -   `Chrome for Developers`： [https://developer.chrome.com/docs?hl=zh-cn](https://developer.chrome.com/docs?hl=zh-cn)
 -   `Glossary`： [https://developer.mozilla.org/en-US/docs/Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
--   `W3C`：[https://www.w3.org/](https://www.w3.org/) 
+-   `W3C`：[https://www.w3.org/](https://www.w3.org/)
+-   `Mermaid.js`：[http://mermaid.js.org/ecosystem/integrations-community.html](http://mermaid.js.org/ecosystem/integrations-community.html)
 
 # ECMAScript
 
