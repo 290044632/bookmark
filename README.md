@@ -12,6 +12,7 @@
 -   `Java Language Updates`：[https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B)
 -   `The Checker Framework`：[https://checkerframework.org](https://checkerframework.org)
 -   `The Java Version Almanac`: [https://javaalmanac.io/jdk/](https://javaalmanac.io/jdk/)
+-   `JDK 20 Documentation`：[https://docs.oracle.com/en/java/javase/20/index.html](https://docs.oracle.com/en/java/javase/20/index.html)
 
 # Java Frameworks
 
