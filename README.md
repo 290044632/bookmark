@@ -140,6 +140,10 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `Jmeter Manual`：[https://jmeter.apache.org/usermanual/](https://jmeter.apache.org/usermanual/)
 
+# Haskell
+- `Haskell(an advanced purely-functional programming language)`：[https://www.haskell.org/get-started/](https://www.haskell.org/get-started/)
+- `Pandoc(Haskell library for converting from one markup format to another)`：[https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
