@@ -22,6 +22,8 @@
 - `Arthas(Java Diagnostic Tool)`：[https://arthas.aliyun.com/](https://arthas.aliyun.com/)
 - `Stirling-PDF`：[https://github.com/Stirling-Tools/Stirling-PDF/tree/main](https://github.com/Stirling-Tools/Stirling-PDF/tree/main)
 - `Spring-boot-maven-plugin`：[https://docs.spring.io/spring-boot/maven-plugin/using.html](https://docs.spring.io/spring-boot/maven-plugin/using.html)
+- `OSGI`：[https://www.osgi.org/resources/where-to-start/](https://www.osgi.org/resources/where-to-start/)
+- `OSGI Document`：[https://docs.osgi.org/](https://docs.osgi.org/)
     
 # Web
 
