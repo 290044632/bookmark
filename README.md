@@ -39,6 +39,7 @@
 -   `Glossary`： [https://developer.mozilla.org/en-US/docs/Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 -   `W3C`：[https://www.w3.org/](https://www.w3.org/)
 -   `Mermaid.js`：[http://mermaid.js.org/ecosystem/integrations-community.html](http://mermaid.js.org/ecosystem/integrations-community.html)
+-   `w3schools`：[https://www.w3schools.com/](https://www.w3schools.com/)
 
 # ECMAScript
 
