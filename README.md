@@ -154,6 +154,9 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Docker Glossary`：[https://docs.docker.com/reference/glossary/#base-image](https://docs.docker.com/reference/glossary/#base-image)
 - `Docker Reference documentation`：[https://docs.docker.com/reference/](https://docs.docker.com/reference/)
 
+# ComfyUI
+- `ComfyUI`：[https://docs.comfy.org(https://docs.comfy.org)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
