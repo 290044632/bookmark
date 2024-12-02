@@ -155,7 +155,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Docker Reference documentation`：[https://docs.docker.com/reference/](https://docs.docker.com/reference/)
 
 # ComfyUI
-- `ComfyUI`：[https://docs.comfy.org(https://docs.comfy.org)
+- `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
 
 # 政府网站
 
