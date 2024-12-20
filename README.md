@@ -158,6 +158,9 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 # ComfyUI
 - `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
 
+# Markdown
+- `Marked.js`:[https://marked.js.org/using_advanced](https://marked.js.org/using_advanced)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
