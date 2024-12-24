@@ -40,6 +40,7 @@
 -   `W3C`：[https://www.w3.org/](https://www.w3.org/)
 -   `Mermaid.js`：[http://mermaid.js.org/ecosystem/integrations-community.html](http://mermaid.js.org/ecosystem/integrations-community.html)
 -   `w3schools`：[https://www.w3schools.com/](https://www.w3schools.com/)
+-   `pdf.js`：[https://mozilla.github.io/pdf.js/api/](https://mozilla.github.io/pdf.js/api/)
 
 # ECMAScript
 
