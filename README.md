@@ -24,6 +24,7 @@
 - `Spring-boot-maven-plugin`：[https://docs.spring.io/spring-boot/maven-plugin/using.html](https://docs.spring.io/spring-boot/maven-plugin/using.html)
 - `OSGI`：[https://www.osgi.org/resources/where-to-start/](https://www.osgi.org/resources/where-to-start/)
 - `OSGI Document`：[https://docs.osgi.org/](https://docs.osgi.org/)
+- `MapStruct`：[https://mapstruct.org/documentation/stable/reference/html](https://mapstruct.org/documentation/stable/reference/html/#mapping-with-constructors)
     
 # Web
 
