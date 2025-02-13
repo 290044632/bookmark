@@ -171,3 +171,4 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `四川人社在线公共服务平台`：[http://www.sc.hrss.gov.cn/scggfw/system/toIndex.do](http://www.sc.hrss.gov.cn/scggfw/system/toIndex.do)
 - `中国法院网`：[https://www.chinacourt.org/index.shtml](https://www.chinacourt.org/index.shtml)
 - `国家企业信用信息公示系统(四川)`:[https://sc.gsxt.gov.cn/index.html](https://sc.gsxt.gov.cn/index.html)
+- `软考网`：[https://bm.ruankao.org.cn/personalCenter/myInfo](https://bm.ruankao.org.cn/personalCenter/myInfo)
