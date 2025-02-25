@@ -163,6 +163,10 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 # Markdown
 - `Marked.js`:[https://marked.js.org/using_advanced](https://marked.js.org/using_advanced)
 
+# FreeDesktop
+- `freedesktop`:[https://www.freedesktop.org/wiki/](https://www.freedesktop.org/wiki/)
+- `Specifications`:[https://www.freedesktop.org/wiki/Specifications/](https://www.freedesktop.org/wiki/Specifications/)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
