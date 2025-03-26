@@ -9,6 +9,8 @@
 -   `JDK 20 Documentation`：[https://docs.oracle.com/en/java/javase/20/index.html](https://docs.oracle.com/en/java/javase/20/index.html)
 -   `JMH(Java Microbenchmark Harness )`：[https://github.com/openjdk/jmh](https://github.com/openjdk/jmh)
 -   `JavaBeans Specifications`：[https://www.oracle.com/java/technologies/javase/javabeans-spec.html](https://www.oracle.com/java/technologies/javase/javabeans-spec.html)
+-   `VisualVM OQL`：[https://visualvm.github.io/documentation.html](https://visualvm.github.io/documentation.html)
+-   `Eclipse OQL`：[https://help.eclipse.org/latest/index.jsp?nav=%2F44](https://help.eclipse.org/latest/index.jsp?nav=%2F44)
 
 # Java Frameworks
 
