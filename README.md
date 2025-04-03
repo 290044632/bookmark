@@ -136,16 +136,24 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Apache Common RDF`：[https://commons.apache.org/proper/commons-rdf/](https://commons.apache.org/proper/commons-rdf/)
 - `Apache Jena`：[https://jena.apache.org/getting_started/index.html](https://jena.apache.org/getting_started/index.html)
 
-# GNOME
+# Liunx（Unix-like）
+
+> `Archlinux`：[https://man.archlinux.org/](https://man.archlinux.org/)
+
+> # GNOME
 
 - `GNOME Extensions`：[https://extensions.gnome.org/](https://extensions.gnome.org/)
 - `GJS`：[https://gjs-docs.gnome.org/gjs/](https://gjs-docs.gnome.org/gjs/)
 
-# Shell(/etc/shells)
+> # Shell(/etc/shells)
 
 - `bash Shell(Bash Reference Manual)`：[https://www.gnu.org/software/bash/manual/bash.html](https://www.gnu.org/software/bash/manual/bash.html)
 - `dash Shell`：[https://man.archlinux.org/man/dash.1](https://man.archlinux.org/man/dash.1)
 - `rbash(Restricted Shell)`：[https://www.gnu.org/software/bash/manual/html_node/The-Restricted-Shell.html](https://www.gnu.org/software/bash/manual/html_node/The-Restricted-Shell.html)
+
+> # FreeDesktop
+- `freedesktop`:[https://www.freedesktop.org/wiki/](https://www.freedesktop.org/wiki/)
+- `Specifications`:[https://www.freedesktop.org/wiki/Specifications/](https://www.freedesktop.org/wiki/Specifications/)
 
 # Jmeter
 
@@ -165,10 +173,6 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # Markdown
 - `Marked.js`:[https://marked.js.org/using_advanced](https://marked.js.org/using_advanced)
-
-# FreeDesktop
-- `freedesktop`:[https://www.freedesktop.org/wiki/](https://www.freedesktop.org/wiki/)
-- `Specifications`:[https://www.freedesktop.org/wiki/Specifications/](https://www.freedesktop.org/wiki/Specifications/)
 
 # AI
 - `MCP(Model Context Protocol)`：[https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)
