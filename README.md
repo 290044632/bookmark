@@ -85,6 +85,11 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 > `Archlinux`：[https://man.archlinux.org/](https://man.archlinux.org/)
 
+> # Linux Kernel
+
+- `Linux Kernel Archives`：[https://www.kernel.org/](https://www.kernel.org/)
+- `Kernel Memory Management`：[https://www.kernel.org/doc/html/next/admin-guide/mm/index.html](https://www.kernel.org/doc/html/next/admin-guide/mm/index.html)
+
 > # GNOME
 
 - `GNOME Extensions`：[https://extensions.gnome.org/](https://extensions.gnome.org/)
