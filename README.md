@@ -12,6 +12,7 @@
 -   `JavaBeans Specifications`：[https://www.oracle.com/java/technologies/javase/javabeans-spec.html](https://www.oracle.com/java/technologies/javase/javabeans-spec.html)
 -   `VisualVM OQL`：[https://visualvm.github.io/documentation.html](https://visualvm.github.io/documentation.html)
 -   `Eclipse OQL`：[https://help.eclipse.org/latest/index.jsp?nav=%2F44](https://help.eclipse.org/latest/index.jsp?nav=%2F44)
+-   `The Destination for Java Developers`：[https://dev.java/](https://dev.java/)
 
 > # Java Frameworks
 
