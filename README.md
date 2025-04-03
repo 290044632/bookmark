@@ -80,7 +80,7 @@
 - `Jython(The Definitive Guide to Jython
 Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](https://jython.readthedocs.io/en/latest/)
 
-# Liunx（Unix-like）
+# Linux（Unix-like）
 
 > `Archlinux`：[https://man.archlinux.org/](https://man.archlinux.org/)
 
