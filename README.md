@@ -168,6 +168,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Turtle`：[https://www.w3.org/TR/turtle/](https://www.w3.org/TR/turtle/)
 - `Apache Common RDF`：[https://commons.apache.org/proper/commons-rdf/](https://commons.apache.org/proper/commons-rdf/)
 - `Apache Jena`：[https://jena.apache.org/getting_started/index.html](https://jena.apache.org/getting_started/index.html)
+- `OpenMetrics`：[https://github.com/prometheus/OpenMetrics/blob/main/specification/OpenMetrics.md](https://github.com/prometheus/OpenMetrics/blob/main/specification/OpenMetrics.md)
 
 # Tests
 
