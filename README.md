@@ -152,9 +152,11 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # Application Observability
 
-- `skywalking`：[https://skywalking.apache.org/](https://skywalking.apache.org/)
-- `pinpoint`：[https://github.com/pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint)
-- `micrometer`：[https://micrometer.io/](https://micrometer.io/)
+- `Skywalking`：[https://skywalking.apache.org/](https://skywalking.apache.org/)
+- `Pinpoint`：[https://github.com/pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint)
+- `Micrometer`：[https://micrometer.io/](https://micrometer.io/)
+- `Prometheus`：[https://prometheus.io/](https://prometheus.io/)
+- `Grafana`：[https://grafana.com/](https://grafana.com/)
 
 # RDF(Resource Description Framework)
 
