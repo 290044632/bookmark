@@ -188,11 +188,18 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Yarn`：[https://classic.yarnpkg.com/en/docs/install#debian-stable](https://classic.yarnpkg.com/en/docs/install#debian-stable)
 
 # Markdown
+
 - `Marked.js`:[https://marked.js.org/using_advanced](https://marked.js.org/using_advanced)
 
 # AI
+
 - `MCP(Model Context Protocol)`：[https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)
 - `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
+
+# Flash（Hardware/Software）
+
+- `Openwrt`：[https://toh.openwrt.org/?view=normal](https://toh.openwrt.org/?view=normal)
+- `HiNas`：[https://www.ecoo.top/](https://www.ecoo.top/)
 
 # 政府网站
 
