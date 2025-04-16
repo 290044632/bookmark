@@ -194,6 +194,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 # Markdown
 
 - `Marked.js`:[https://marked.js.org/using_advanced](https://marked.js.org/using_advanced)
+- `Mermaid`：[https://mermaid.js.org/intro/](https://mermaid.js.org/intro/)
 
 # AI
 
