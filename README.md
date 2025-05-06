@@ -94,6 +94,8 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `GNOME Extensions`：[https://extensions.gnome.org/](https://extensions.gnome.org/)
 - `GJS`：[https://gjs-docs.gnome.org/gjs/](https://gjs-docs.gnome.org/gjs/)
+- `GNOME Builder`：[https://builder.readthedocs.io/index.html](https://builder.readthedocs.io/index.html)
+- `Vala`：[https://vala.dev/](https://vala.dev/)
 
 > # Shell(/etc/shells)
 
