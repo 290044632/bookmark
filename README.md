@@ -13,6 +13,7 @@
 -   `VisualVM OQL`：[https://visualvm.github.io/documentation.html](https://visualvm.github.io/documentation.html)
 -   `Eclipse OQL`：[https://help.eclipse.org/latest/index.jsp?nav=%2F44](https://help.eclipse.org/latest/index.jsp?nav=%2F44)
 -   `The Destination for Java Developers`：[https://dev.java/](https://dev.java/)
+-   `Graalvm Native Image`：[https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/](https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/)
 
 > # Java Frameworks
 
