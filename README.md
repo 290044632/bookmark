@@ -220,6 +220,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `Hyperledger Fabric`：[https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html](https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html)
 
+- `互联网数字图书馆`：[https://scholar.archive.org/](https://scholar.archive.org/)
 
 # 政府网站
 
