@@ -30,6 +30,7 @@
 - `OSGI`：[https://www.osgi.org/resources/where-to-start/](https://www.osgi.org/resources/where-to-start/)
 - `OSGI Document`：[https://docs.osgi.org/](https://docs.osgi.org/)
 - `MapStruct`：[https://mapstruct.org/documentation/stable/reference/html](https://mapstruct.org/documentation/stable/reference/html/#mapping-with-constructors)
+- `Project Reactor`：[https://projectreactor.io/docs/core/release/reference/aboutDoc.html](https://projectreactor.io/docs/core/release/reference/aboutDoc.html)
     
 > # Web
 
@@ -221,6 +222,10 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Hyperledger Fabric`：[https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html](https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html)
 
 - `互联网数字图书馆`：[https://scholar.archive.org/](https://scholar.archive.org/)
+
+> # Standard Spec
+
+- `OpenAPI Specification`：[https://spec.openapis.org/oas/v3.1.0.html#openapi-specification](https://spec.openapis.org/oas/v3.1.0.html#openapi-specification)
 
 # 政府网站
 
