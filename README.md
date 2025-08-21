@@ -14,6 +14,7 @@
 -   `Eclipse OQL`：[https://help.eclipse.org/latest/index.jsp?nav=%2F44](https://help.eclipse.org/latest/index.jsp?nav=%2F44)
 -   `The Destination for Java Developers`：[https://dev.java/](https://dev.java/)
 -   `Graalvm Native Image`：[https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/](https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/)
+-   `Object Query Language (OQL)`：[https://cr.openjdk.org/~sundar/8022483/webrev.01/raw_files/new/src/share/classes/com/sun/tools/hat/resources/oqlhelp.html](https://cr.openjdk.org/~sundar/8022483/webrev.01/raw_files/new/src/share/classes/com/sun/tools/hat/resources/oqlhelp.html)
 
 > # Java Frameworks
 
