@@ -202,8 +202,14 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # Markdown
 
+> # Tools
+
 - `Marked.js`:[https://marked.js.org/using_advanced](https://marked.js.org/using_advanced)
 - `Mermaid`：[https://mermaid.js.org/intro/](https://mermaid.js.org/intro/)
+
+> # Specification
+
+- `CommonMark(A strongly defined, highly compatible specification of Markdown)`：[https://commonmark.org/](https://commonmark.org/)
 
 # AI
 
