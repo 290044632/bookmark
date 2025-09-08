@@ -64,6 +64,10 @@
 - `Node.js Documentation`：[https://nodejs.org/docs/latest/api/](https://nodejs.org/docs/latest/api/)
 - `Deno`：[https://deno.com/](https://deno.com/)
 
+> # Template Framework
+
+- `Art-Template`：[https://goofychris.github.io/art-template/zh-cn/docs/index.html](https://goofychris.github.io/art-template/zh-cn/docs/index.html)  
+
 > # Haskell
 - `Haskell(an advanced purely-functional programming language)`：[https://www.haskell.org/get-started/](https://www.haskell.org/get-started/)
 - `Pandoc(Haskell library for converting from one markup format to another)`：[https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
