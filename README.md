@@ -238,6 +238,16 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `OpenAPI Specification`：[https://spec.openapis.org/oas/v3.1.0.html#openapi-specification](https://spec.openapis.org/oas/v3.1.0.html#openapi-specification)
 
+# GraphQL
+
+- `GraphQL Spec`：[https://spec.graphql.org/September2025/#sec-Overview](https://spec.graphql.org/September2025/#sec-Overview)
+- `GraphQL`：[https://graphql.org/learn/](https://graphql.org/learn/)
+- `GraphQL Java`：[https://www.graphql-java.com/](https://www.graphql-java.com/)
+
+# MQTT
+
+- `EMQX`：[https://docs.emqx.com/zh/emqx/v5.8/connect-emqx/java.html](https://docs.emqx.com/zh/emqx/v5.8/connect-emqx/java.html)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
