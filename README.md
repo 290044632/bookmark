@@ -248,6 +248,10 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `EMQX`：[https://docs.emqx.com/zh/emqx/v5.8/connect-emqx/java.html](https://docs.emqx.com/zh/emqx/v5.8/connect-emqx/java.html)
 
+# Quickemu
+
+- `Quickemu`：[https://github.com/quickemu-project](https://github.com/quickemu-project)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
