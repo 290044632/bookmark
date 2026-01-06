@@ -267,3 +267,4 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `软考网`：[https://bm.ruankao.org.cn/personalCenter/myInfo](https://bm.ruankao.org.cn/personalCenter/myInfo)
 - `中国软件行业协会`：[https://www.csia.org.cn/](https://www.csia.org.cn/)
 - `中国教育考试网`：[https://www.neea.edu.cn/](https://www.neea.edu.cn/)
+- `国家标准全文公开系统`：[https://openstd.samr.gov.cn/bzgk/gb/index](https://openstd.samr.gov.cn/bzgk/gb/index)
