@@ -266,3 +266,4 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `国家企业信用信息公示系统(四川)`:[https://sc.gsxt.gov.cn/index.html](https://sc.gsxt.gov.cn/index.html)
 - `软考网`：[https://bm.ruankao.org.cn/personalCenter/myInfo](https://bm.ruankao.org.cn/personalCenter/myInfo)
 - `中国软件行业协会`：[https://www.csia.org.cn/](https://www.csia.org.cn/)
+- `中国教育考试网`：[https://www.neea.edu.cn/](https://www.neea.edu.cn/)
