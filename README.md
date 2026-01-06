@@ -248,6 +248,14 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `EMQX`：[https://docs.emqx.com/zh/emqx/v5.8/connect-emqx/java.html](https://docs.emqx.com/zh/emqx/v5.8/connect-emqx/java.html)
 
+# Quickemu
+
+- `Quickemu`：[https://github.com/quickemu-project](https://github.com/quickemu-project)
+
+# Clash
+
+- `Clash Verge`：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
@@ -258,3 +266,5 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `国家企业信用信息公示系统(四川)`:[https://sc.gsxt.gov.cn/index.html](https://sc.gsxt.gov.cn/index.html)
 - `软考网`：[https://bm.ruankao.org.cn/personalCenter/myInfo](https://bm.ruankao.org.cn/personalCenter/myInfo)
 - `中国软件行业协会`：[https://www.csia.org.cn/](https://www.csia.org.cn/)
+- `中国教育考试网`：[https://www.neea.edu.cn/](https://www.neea.edu.cn/)
+- `国家标准全文公开系统`：[https://openstd.samr.gov.cn/bzgk/gb/index](https://openstd.samr.gov.cn/bzgk/gb/index)
