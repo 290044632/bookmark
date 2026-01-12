@@ -268,3 +268,5 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `中国软件行业协会`：[https://www.csia.org.cn/](https://www.csia.org.cn/)
 - `中国教育考试网`：[https://www.neea.edu.cn/](https://www.neea.edu.cn/)
 - `国家标准全文公开系统`：[https://openstd.samr.gov.cn/bzgk/gb/index](https://openstd.samr.gov.cn/bzgk/gb/index)
+- `成都市人力资源和社会保障局_人事考试网`：[https://cdpta.cdrsigc.com/frt/register/regist!regBaseInfo.do](https://cdpta.cdrsigc.com/frt/register/regist!regBaseInfo.do)
+- `四川省人力资源和社会保障厅`：[https://www.scpta.com.cn/](https://www.scpta.com.cn/)
