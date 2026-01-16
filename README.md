@@ -275,3 +275,5 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `国家标准全文公开系统`：[https://openstd.samr.gov.cn/bzgk/gb/index](https://openstd.samr.gov.cn/bzgk/gb/index)
 - `成都市人力资源和社会保障局_人事考试网`：[https://cdpta.cdrsigc.com/frt/register/regist!regBaseInfo.do](https://cdpta.cdrsigc.com/frt/register/regist!regBaseInfo.do)
 - `四川省人力资源和社会保障厅`：[https://www.scpta.com.cn/](https://www.scpta.com.cn/)
+- `成都市人才认定申报系统`：[https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html](https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html)
+- `中国人事考试网`：[http://www.cpta.com.cn/](http://www.cpta.com.cn/)
