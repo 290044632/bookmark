@@ -277,3 +277,4 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `四川省人力资源和社会保障厅`：[https://www.scpta.com.cn/](https://www.scpta.com.cn/)
 - `成都市人才认定申报系统`：[https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html](https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html)
 - `中国人事考试网`：[http://www.cpta.com.cn/](http://www.cpta.com.cn/)
+- `全国人力资源和社会保障政务服务平台`：[https://www.12333.gov.cn/](https://www.12333.gov.cn/)
