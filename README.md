@@ -156,6 +156,11 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `Dubbo 2.x`：[https://dubbo.apache.org/zh-cn/docsv2.7/](https://dubbo.apache.org/zh-cn/docsv2.7/)
 - `Dubbo 2.6(dubbo-filter)`：[https://dubbo.apache.org/zh-cn/blog/2018/07/01/%E7%AC%AC%E4%B8%80%E4%B8%AA-dubbo-filter/](https://dubbo.apache.org/zh-cn/blog/2018/07/01/%E7%AC%AC%E4%B8%80%E4%B8%AA-dubbo-filter/)
 
+# GRPC
+
+- `grpc`：[https://grpc.io/docs/languages/java/basics/](https://grpc.io/docs/languages/java/basics/)
+- `protobuf`：[https://protobuf.dev/programming-guides/proto3/](https://protobuf.dev/programming-guides/proto3/)
+
 # wikipedia
 
 -   `Just-in-time compilation`：[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
@@ -268,3 +273,8 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `中国软件行业协会`：[https://www.csia.org.cn/](https://www.csia.org.cn/)
 - `中国教育考试网`：[https://www.neea.edu.cn/](https://www.neea.edu.cn/)
 - `国家标准全文公开系统`：[https://openstd.samr.gov.cn/bzgk/gb/index](https://openstd.samr.gov.cn/bzgk/gb/index)
+- `成都市人力资源和社会保障局_人事考试网`：[https://cdpta.cdrsigc.com/frt/register/regist!regBaseInfo.do](https://cdpta.cdrsigc.com/frt/register/regist!regBaseInfo.do)
+- `四川省人力资源和社会保障厅`：[https://www.scpta.com.cn/](https://www.scpta.com.cn/)
+- `成都市人才认定申报系统`：[https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html](https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html)
+- `中国人事考试网`：[http://www.cpta.com.cn/](http://www.cpta.com.cn/)
+- `全国人力资源和社会保障政务服务平台`：[https://www.12333.gov.cn/](https://www.12333.gov.cn/)
