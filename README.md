@@ -261,6 +261,10 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `Clash Verge`：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 
+# 阿里云
+
+- `大模型ACP认证教程`：[大模型ACP认证教程](https://atomgit.com/alibabaclouddocs/aliyun_acp_learning/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8BACP%E8%AE%A4%E8%AF%81%E6%95%99%E7%A8%8B/p1_%E8%AF%BE%E7%A8%8B%E5%87%86%E5%A4%87/README.md)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
