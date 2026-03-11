@@ -49,6 +49,7 @@
 -   `Mermaid.js`：[http://mermaid.js.org/ecosystem/integrations-community.html](http://mermaid.js.org/ecosystem/integrations-community.html)
 -   `w3schools`：[https://www.w3schools.com/](https://www.w3schools.com/)
 -   `pdf.js`：[https://mozilla.github.io/pdf.js/api/](https://mozilla.github.io/pdf.js/api/)
+-   `JSON Schema`：[https://json-schema.org/understanding-json-schema/basics](https://json-schema.org/understanding-json-schema/basics)
 
 > # Webhook
 
