@@ -226,12 +226,13 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `MCP(Model Context Protocol)`：[https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)
 - `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
+- `Huggingface`：[https://huggingface.co/](https://huggingface.co/)
+- `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
 
 # Flash（Hardware/Software）
 
 - `Openwrt`：[https://toh.openwrt.org/?view=normal](https://toh.openwrt.org/?view=normal)
 - `HiNas`：[https://www.ecoo.top/](https://www.ecoo.top/)
-- `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
 
 # bellard.org
 - `bellard.org`：[https://bellard.org/](https://bellard.org/)
