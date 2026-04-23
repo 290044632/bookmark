@@ -231,6 +231,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 - `Openwrt`：[https://toh.openwrt.org/?view=normal](https://toh.openwrt.org/?view=normal)
 - `HiNas`：[https://www.ecoo.top/](https://www.ecoo.top/)
+- `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
 
 # bellard.org
 - `bellard.org`：[https://bellard.org/](https://bellard.org/)
