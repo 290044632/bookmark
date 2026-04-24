@@ -2,19 +2,19 @@
 
 > # Java
 
--   `The Java™ Tutorials`：[https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
--   `Java Language and Virtual Machine Specifications`：[https://docs.oracle.com/javase/specs/index.html](https://docs.oracle.com/javase/specs/index.html)
--   `Java Language Updates`：[https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B)
--   `The Checker Framework`：[https://checkerframework.org](https://checkerframework.org)
--   `The Java Version Almanac`: [https://javaalmanac.io/jdk/](https://javaalmanac.io/jdk/)
--   `JDK 20 Documentation`：[https://docs.oracle.com/en/java/javase/20/index.html](https://docs.oracle.com/en/java/javase/20/index.html)
--   `JMH(Java Microbenchmark Harness )`：[https://github.com/openjdk/jmh](https://github.com/openjdk/jmh)
--   `JavaBeans Specifications`：[https://www.oracle.com/java/technologies/javase/javabeans-spec.html](https://www.oracle.com/java/technologies/javase/javabeans-spec.html)
--   `VisualVM OQL`：[https://visualvm.github.io/documentation.html](https://visualvm.github.io/documentation.html)
--   `Eclipse OQL`：[https://help.eclipse.org/latest/index.jsp?nav=%2F44](https://help.eclipse.org/latest/index.jsp?nav=%2F44)
--   `The Destination for Java Developers`：[https://dev.java/](https://dev.java/)
--   `Graalvm Native Image`：[https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/](https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/)
--   `Object Query Language (OQL)`：[https://cr.openjdk.org/~sundar/8022483/webrev.01/raw_files/new/src/share/classes/com/sun/tools/hat/resources/oqlhelp.html](https://cr.openjdk.org/~sundar/8022483/webrev.01/raw_files/new/src/share/classes/com/sun/tools/hat/resources/oqlhelp.html)
+- `The Java™ Tutorials`：[https://docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
+- `Java Language and Virtual Machine Specifications`：[https://docs.oracle.com/javase/specs/index.html](https://docs.oracle.com/javase/specs/index.html)
+- `Java Language Updates`：[https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B](https://docs.oracle.com/en/java/javase/22/language/java-language-changes.html#GUID-6459681C-6881-45D8-B0DB-395D1BD6DB9B)
+- `The Checker Framework`：[https://checkerframework.org](https://checkerframework.org)
+- `The Java Version Almanac`: [https://javaalmanac.io/jdk/](https://javaalmanac.io/jdk/)
+- `JDK 20 Documentation`：[https://docs.oracle.com/en/java/javase/20/index.html](https://docs.oracle.com/en/java/javase/20/index.html)
+- `JMH(Java Microbenchmark Harness )`：[https://github.com/openjdk/jmh](https://github.com/openjdk/jmh)
+- `JavaBeans Specifications`：[https://www.oracle.com/java/technologies/javase/javabeans-spec.html](https://www.oracle.com/java/technologies/javase/javabeans-spec.html)
+- `VisualVM OQL`：[https://visualvm.github.io/documentation.html](https://visualvm.github.io/documentation.html)
+- `Eclipse OQL`：[https://help.eclipse.org/latest/index.jsp?nav=%2F44](https://help.eclipse.org/latest/index.jsp?nav=%2F44)
+- `The Destination for Java Developers`：[https://dev.java/](https://dev.java/)
+- `Graalvm Native Image`：[https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/](https://www.graalvm.org/jdk21/reference-manual/native-image/overview/Options/)
+- `Object Query Language (OQL)`：[https://cr.openjdk.org/~sundar/8022483/webrev.01/raw_files/new/src/share/classes/com/sun/tools/hat/resources/oqlhelp.html](https://cr.openjdk.org/~sundar/8022483/webrev.01/raw_files/new/src/share/classes/com/sun/tools/hat/resources/oqlhelp.html)
 
 > # Java Frameworks
 
@@ -32,24 +32,24 @@
 - `OSGI Document`：[https://docs.osgi.org/](https://docs.osgi.org/)
 - `MapStruct`：[https://mapstruct.org/documentation/stable/reference/html](https://mapstruct.org/documentation/stable/reference/html/#mapping-with-constructors)
 - `Project Reactor`：[https://projectreactor.io/docs/core/release/reference/aboutDoc.html](https://projectreactor.io/docs/core/release/reference/aboutDoc.html)
-    
+
 > # Web
 
--   `MDN Web Docs`：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
--   `HTML`： [https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
--   `JavaScript`：[https://developer.mozilla.org/zh-CN/docs/Web/JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
--   `JavaScript Reference`：[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
--   `CSS`： [https://developer.mozilla.org/zh-CN/docs/Web/CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
--   `Web APIs`： [https://developer.mozilla.org/zh-CN/docs/Web/API](https://developer.mozilla.org/zh-CN/docs/Web/API)
--   `Web technology for developers`：[https://developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
--   `Browser extensions For Firefox`： [https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
--   `Chrome for Developers`： [https://developer.chrome.com/docs?hl=zh-cn](https://developer.chrome.com/docs?hl=zh-cn)
--   `Glossary`： [https://developer.mozilla.org/en-US/docs/Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
--   `W3C`：[https://www.w3.org/](https://www.w3.org/)
--   `Mermaid.js`：[http://mermaid.js.org/ecosystem/integrations-community.html](http://mermaid.js.org/ecosystem/integrations-community.html)
--   `w3schools`：[https://www.w3schools.com/](https://www.w3schools.com/)
--   `pdf.js`：[https://mozilla.github.io/pdf.js/api/](https://mozilla.github.io/pdf.js/api/)
--   `JSON Schema`：[https://json-schema.org/understanding-json-schema/basics](https://json-schema.org/understanding-json-schema/basics)
+- `MDN Web Docs`：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
+- `HTML`： [https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
+- `JavaScript`：[https://developer.mozilla.org/zh-CN/docs/Web/JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- `JavaScript Reference`：[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- `CSS`： [https://developer.mozilla.org/zh-CN/docs/Web/CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+- `Web APIs`： [https://developer.mozilla.org/zh-CN/docs/Web/API](https://developer.mozilla.org/zh-CN/docs/Web/API)
+- `Web technology for developers`：[https://developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+- `Browser extensions For Firefox`： [https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+- `Chrome for Developers`： [https://developer.chrome.com/docs?hl=zh-cn](https://developer.chrome.com/docs?hl=zh-cn)
+- `Glossary`： [https://developer.mozilla.org/en-US/docs/Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+- `W3C`：[https://www.w3.org/](https://www.w3.org/)
+- `Mermaid.js`：[http://mermaid.js.org/ecosystem/integrations-community.html](http://mermaid.js.org/ecosystem/integrations-community.html)
+- `w3schools`：[https://www.w3schools.com/](https://www.w3schools.com/)
+- `pdf.js`：[https://mozilla.github.io/pdf.js/api/](https://mozilla.github.io/pdf.js/api/)
+- `JSON Schema`：[https://json-schema.org/understanding-json-schema/basics](https://json-schema.org/understanding-json-schema/basics)
 
 > # Webhook
 
@@ -70,6 +70,7 @@
 - `Art-Template`：[https://goofychris.github.io/art-template/zh-cn/docs/index.html](https://goofychris.github.io/art-template/zh-cn/docs/index.html)  
 
 > # Haskell
+
 - `Haskell(an advanced purely-functional programming language)`：[https://www.haskell.org/get-started/](https://www.haskell.org/get-started/)
 - `Pandoc(Haskell library for converting from one markup format to another)`：[https://github.com/jgm/pandoc](https://github.com/jgm/pandoc)
 
@@ -87,7 +88,7 @@
 
 - `Python`：[https://www.python.org/](https://www.python.org/)
 - `Jython(The Definitive Guide to Jython
-Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](https://jython.readthedocs.io/en/latest/)
+  Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](https://jython.readthedocs.io/en/latest/)
 
 # Linux（Unix-like）
 
@@ -112,6 +113,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `rbash(Restricted Shell)`：[https://www.gnu.org/software/bash/manual/html_node/The-Restricted-Shell.html](https://www.gnu.org/software/bash/manual/html_node/The-Restricted-Shell.html)
 
 > # FreeDesktop
+
 - `freedesktop`:[https://www.freedesktop.org/wiki/](https://www.freedesktop.org/wiki/)
 - `Specifications`:[https://www.freedesktop.org/wiki/Specifications/](https://www.freedesktop.org/wiki/Specifications/)
 
@@ -121,7 +123,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `GUN Awk`：[https://www.gnu.org/software/gawk/manual/gawk.html#Getting-Started](https://www.gnu.org/software/gawk/manual/gawk.html#Getting-Started)
 
 # Database
-  
+
 > # Redis
 
 - `Develop with Redis`：[https://redis.io/docs/latest/develop/](https://redis.io/docs/latest/develop/)
@@ -138,7 +140,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `MySQL Documentation Archive`：[https://dev.mysql.com/doc/index-archive.html](https://dev.mysql.com/doc/index-archive.html)
 - `MySQL 5.7 Reference Manual`：[https://dev.mysql.com/doc/refman/5.7/en/](https://dev.mysql.com/doc/refman/5.7/en/)
 - `MySQL 5.6 Reference Manual`：[https://downloads.mysql.com/docs/refman-5.6-en.a4.pdf](https://downloads.mysql.com/docs/refman-5.6-en.a4.pdf)
-  
+
 > # Apache CouchDB
 
 - `Apache CouchDB`：[https://docs.couchdb.org/en/stable/intro/tour.html](https://docs.couchdb.org/en/stable/intro/tour.html)
@@ -150,7 +152,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 > # Monitoring solution and time series database
 
 - `VictoriaMetrics`：[https://docs.victoriametrics.com/#](https://docs.victoriametrics.com/#)
-  
+
 # Dubbo
 
 - `Dubbo 3.x`：[https://dubbo.apache.org/zh-cn/overview/home/](https://dubbo.apache.org/zh-cn/overview/home/)
@@ -164,9 +166,9 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # wikipedia
 
--   `Just-in-time compilation`：[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
--   `Work stealing（a scheduling strategy for multithreaded computer programs）`： [https://en.wikipedia.org/wiki/Work_stealing](https://en.wikipedia.org/wiki/Work_stealing)
--   `List_of_command-line_interpreters`： [https://en.wikipedia.org/wiki/List_of_command-line_interpreters](https://en.wikipedia.org/wiki/List_of_command-line_interpreters)
+- `Just-in-time compilation`：[https://en.wikipedia.org/wiki/Just-in-time_compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+- `Work stealing（a scheduling strategy for multithreaded computer programs）`： [https://en.wikipedia.org/wiki/Work_stealing](https://en.wikipedia.org/wiki/Work_stealing)
+- `List_of_command-line_interpreters`： [https://en.wikipedia.org/wiki/List_of_command-line_interpreters](https://en.wikipedia.org/wiki/List_of_command-line_interpreters)
 
 # RFC
 
@@ -229,6 +231,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
 - `Huggingface`：[https://huggingface.co/](https://huggingface.co/)
 - `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
+- `JSON-RPC`：[https://www.jsonrpc.org/](https://www.jsonrpc.org/)
 
 # Flash（Hardware/Software）
 
@@ -236,6 +239,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 - `HiNas`：[https://www.ecoo.top/](https://www.ecoo.top/)
 
 # bellard.org
+
 - `bellard.org`：[https://bellard.org/](https://bellard.org/)
 
 # BlockChain(区块链)
