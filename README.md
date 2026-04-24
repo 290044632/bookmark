@@ -224,6 +224,7 @@ Python for the Java Platform)`：[https://jython.readthedocs.io/en/latest/](http
 
 # AI
 
+- `Function Calling`：[https://developers.openai.com/api/docs/guides/function-calling](https://developers.openai.com/api/docs/guides/function-calling)
 - `MCP(Model Context Protocol)`：[https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)
 - `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
 - `Huggingface`：[https://huggingface.co/](https://huggingface.co/)
