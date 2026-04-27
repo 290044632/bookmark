@@ -2,7 +2,7 @@
 
 ---
 
-> 全称：模型上下文协议（`Model Context Protocol`）
+> 全称：模型上下文协议（`Model Context Protocol`），一种有状态协议（Stateful Protocol）
 
 > 作用：一种AI应用连接外部系统的开源标准
 
@@ -114,6 +114,51 @@ A-->A4("Utility features（实用功能）")
 A4-->A41>"支持其他额外功能，例如实时更新通知和长时间运行操作的进度跟踪"]
 ```
 
+#### Data Layer Protocol(数据层协议)
 
+```mermaid
+flowchart LR
+A["Data Layer Protocol"]
+
+A-->A1{{"Lifecycle management（生命周期管理）"}}
+A-->A2{{"Primitives（原语）"}}
+A-->A3{{"Notifications（通知）"}}
+```
+
+```mermaid
+flowchart LR
+
+A["Primitives（原语）"]
+A-->|作用|A1>"它们定义了客户端和服务器可以相互提供哪些服务；
+这些基本单元规定了可以与人工智能应用程序共享的上下文信息类型以及可以执行的操作范围。
+"]
+
+A-->A2{{"MCP Server"}}
+A2-->A21("Tools（工具）")-->A211>"AI应用程序可以调用以执行操作
+（例如，文件操作、API调用、数据库查询）的可执行函数"]
+A2-->A22("Resources（资源）")-->A221>"为人工智能应用提供上下文信息的数据源
+（例如，文件内容、数据库记录、API响应）"]
+A2-->A23("Prompts（提示词）")-->A231>"可重用的模板，有助于构建与语言模型的交互
+（例如，系统提示、少样本示例）"]
+
+A-->A3{{"MCP Client"}}
+A3-->A31("Sampling（采样）")-->A311>"允许服务器向客户端的AI应用程序请求语言模型补全"]
+A3-->A32("Elicitation（诱导）")-->A321>"允许服务器向用户请求额外信息"]
+A3-->A33("Logging（日志）")-->A331>"允许服务器向客户端发送日志消息，以便进行调试和监控"]
+
+A-->A4{{"Tasks（任务）"}}-->A41>"持久执行包装器，
+可对MCP请求（例如，昂贵的计算、工作流自动化、批量处理、多步骤操作）进行延迟结果检索和状态跟踪"]
+```
 
 #### Transport Layer(传输层)
+
+```mermaid
+flowchart LR
+
+A["Transport Layer"]
+
+A-->A1("Stdio transport")
+A-->A2("Streamable transport")
+A2-->|Blocking|A21{{"HTTP Post"}}
+A2-->|Streaming|A22{{"SSE"}}
+```
