@@ -232,6 +232,8 @@
 - `Huggingface`：[https://huggingface.co/](https://huggingface.co/)
 - `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
 - `JSON-RPC`：[https://www.jsonrpc.org/](https://www.jsonrpc.org/)
+- `Skills`：[https://agentskills.io/home](https://agentskills.io/home)
+- 
 
 # Flash（Hardware/Software）
 
