@@ -226,14 +226,22 @@
 
 # AI
 
+> # Specification
+
 - `Function Calling`：[https://developers.openai.com/api/docs/guides/function-calling](https://developers.openai.com/api/docs/guides/function-calling)
 - `MCP(Model Context Protocol)`：[https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)
+- `JSON-RPC`：[https://www.jsonrpc.org/](https://www.jsonrpc.org/)
+- `Skills`：[https://agentskills.io/home](https://agentskills.io/home)
+- `A2A(Agent2Agent Protocol)`：[https://a2a-protocol.org/latest/](https://a2a-protocol.org/latest/)
+- 
+
+> # Frameworks
+
 - `ComfyUI`：[https://docs.comfy.org](https://docs.comfy.org)
 - `Huggingface`：[https://huggingface.co/](https://huggingface.co/)
 - `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
-- `JSON-RPC`：[https://www.jsonrpc.org/](https://www.jsonrpc.org/)
-- `Skills`：[https://agentskills.io/home](https://agentskills.io/home)
-- 
+- `Langchain`：[https://docs.langchain.com/](https://docs.langchain.com/)
+- `Llamaindex`：[https://developers.llamaindex.ai/](https://developers.llamaindex.ai/)
 
 # Flash（Hardware/Software）
 
