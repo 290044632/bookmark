@@ -5,6 +5,8 @@ flowchart LR
 A["Skill"]
 
 A-->|作用|A1>"一种轻量级的开放格式，可通过专业知识和工作流程扩展 AI 代理的功能"]
+
+A-->|本质|A2{{"一个至少包含SKILL.md文件以及其他非必须资源的文件目录"}}
 ```
 
 ```mermaid
@@ -23,13 +25,13 @@ flowchart LR
         direction TB
         A(("Discovery/发现"))-.->|解释|A1>"启动时代理只加载每一个可用Skill的名称和描述，
             便于知道什么时候可以使用."]
- 
+
     end
     subgraph two["第二步"]
         direction TB
         B(("Activation/激活"))-.->|解释|B1>"当任务与技能描述相符时，
          代理会将完整的SKILL.md指令解读到上下文中"]
-    
+
     end
     subgraph three["第三步"]
        direction TB
@@ -40,16 +42,19 @@ one-->two-->three
 ```
 
 ```mermaid
-flowchart LR
-S["Skill"]
-A(("Discovery/发现"))
-B(("Activation/激活"))
-C(("Execution/执行"))
-S-.工作流程.->A-->B-->C
-A-.->|解释|A1>"启动时代理只加载每一个可用Skill的名称和描述，
-            便于知道什么时候可以使用."]
-B-.->|解释|B1>"当任务与技能描述相符时，
-         代理会将完整的SKILL.md指令解读到上下文中"]
-C-.->|解释|C1>"代理程序会按照指令执行，
-         并可根据需要选择性地执行捆绑代码或加载引用文件"]
+flowchart TD
+    root[📁 skill-name]
+    root --> core[📄 SKILL.md]-->core_doc[["必须，元数据和指令"]]
+    root --> scripts[📁 scripts]-->scripts_doc[["可执行代码目录"]]
+    root --> references[📁 references]-->references_doc[["文档目录"]]
+    root --> assets[📁 assets]-->assets_doc[["模板、资源目录"]]
+    root --> other[📁/📄 ...]-->other_doc[["其他任何文件和目录"]]
+classDef required color:red,stroke:red
+classDef optional stroke-dasharray: 5 5
+class core,core_doc required
+class scripts,references,assets,other optional
+```
+```mermaid
+
+
 ```
