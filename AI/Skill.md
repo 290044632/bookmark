@@ -103,3 +103,19 @@ metadata:
   email: yiduo@projdk.com
 ---
 ```
+
+## Skill Description编写黄金原则
+
+```mermaid
+flowchart LR
+    A["Skill黄金原则"]
+    A-->A1("Use imperative phrasing（使用祈使句）")-.解释.->A11>"把描述写成指令：
+    告诉代理在什么时候使用Skill，而不是Skill可以做什么"]
+    A-->A2("Focus on user intent, not implementation
+    （关注用户意图，而非具体实现）")-.解释.->A21>"描述用户想要达成的目标，而不是技能的内部机制。
+    智能体会根据用户的需求进行匹配."]
+    A-->A3("Err on the side of being pushy
+    （宁可强势一点）")-.解释.->A31>"明确列出Skill适用的上下文，包括用户没有直接提及领域的情况"]
+    A-->A4("Keep it concise（尽量简洁）")-.解释.->A41>"既要足够长以涵盖技能的范围，
+    又要足够短以避免在涉及多个技能时使智能体的上下文信息过于冗杂"]
+```
