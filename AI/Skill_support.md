@@ -80,3 +80,36 @@ class A33,A34,A41,A411,A412,A413,A414 required
 class A31,A32 warning
 class A42 optional
 ```
+
+```mermaid
+flowchart LR
+    A(("Disclose
+    （公开）"))
+    A-->A1((("Building
+    the skill catalog
+    （构建目录）")))
+    A1-->A11("以任何熟悉的结构化格式（xml、json等）描述skill目录；
+    包含：name，description、location字段")
+    
+    A-->A2((("Where 
+    to place the 
+    catalog
+    （目录放在哪里）")))
+    A2-->A21("System prompt section
+    （系统提示词部分）")
+    A21-.->A211>"在系统提示符中添加一个带标签的目录部分，
+    并在其前面附上关于如何使用技能的简要说明"]
+    A2-->A22("Tool description
+    （工具描述）")
+    A22-.->A221>"将目录嵌入到专用技能激活工具的描述中;
+    可以保持系统提示简洁，并自然地将发现与激活结合起来。"]
+    
+    A-->A3((("Behavioral
+    instructions
+    （行为引导）")))
+    A3-.->A31>"在目录旁边包括一个简短的指令块，告诉模型如何以及何时使用技能"]
+    
+    A-->A4((("Filtering
+    （过滤）")))
+    A4-.->A41>"从目录中排除一些skill"]
+```
