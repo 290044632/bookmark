@@ -119,3 +119,72 @@ flowchart LR
     A-->A4("Keep it concise（尽量简洁）")-.解释.->A41>"既要足够长以涵盖技能的范围，
     又要足够短以避免在涉及多个技能时使智能体的上下文信息过于冗杂"]
 ```
+
+## Skill Script设计原则
+
+```mermaid
+flowchart LR
+    A["Skill Script核心设计原则"]
+    A-->A1("Avoid interactive prompts
+    （避免交互提升模式）")
+    A1-.->|解释|A11>"Agent操作在非交互式Shell环境，
+      无法响应 TTY 提示、密码对话框或确认菜单；
+      如果脚本阻塞在交互式输入上，将被无限期地挂起。"]
+      
+    A-->A2("Document usage with --help
+    （使用--help参数查看脚本使用方法）")
+    A2-.->|解释|A21>"--help输出是Agent学习脚本使用方法的唯一途径"]
+    
+    A-->A3("Write helpful error messages
+    （输出有用的错误信息）")
+    A3-.->|解释|A31>"错误信息会直接影响Agent的下一次尝试；
+    错误信息应该明确告诉Agent下一步如何处理；
+    而非模棱两可的简单错误提示"]
+    
+    A-->A4("Use structured output
+    （使用结构化输出）")
+    A4-.->|解释|A41>"优先使用标准数据结构（如：json,xml等）；
+    能同时被Agent和标准工具解析（如：jq,awk等）"]
+    
+    A-->A5("Separate data from diagnostics
+    （诊断数据与输出分离）")
+    A5-.->|解释|A51>"调试信息输出到stderr，输出结果输出到stdout；
+    代理即可捕获清晰可解析的输出数据，
+    有可以在需要时访问调试日志信息"]
+```
+```mermaid
+flowchart LR
+    A["Skill Script设计原则"]
+    
+    A-->A1("Idempotency
+    （幂等性）")
+    A1-.->|解释|A11>"Agent可能会重复执行脚本"]
+
+    A-->A2("Input constraints
+    （约束输入）")
+    A2-.->|解释|A21>"用明确的错误拒绝不明确的输入，尽量使用枚举和闭集"]
+
+    A-->A3("Dry-run support
+    （支持试运行）")
+    A3-.->|解释|A31>"对于破坏性或有状态的操作，
+    --dry-run标志可以让Agent预览将要发生的事情"]
+
+    A-->A4("Meaningful exit codes
+    （有意义的退出码）")
+    A4-.->|解释|A41>"不同的失败类型（未找到、参数无效、身份验证失败）使用不同的退出代码，
+    并在`--help`输出中进行说明，以便代理程序了解每个代码的含义"]
+
+    A-->A5("Safe defaults
+    （安全的默认值）")
+    A5-.->|解释|A51>"考虑破坏性操作是否需要明确的确认标志（--confirm、--force）
+    或其他与风险级别相适应的安全措施"]
+
+    A-->A6("Predictable output size
+    （可预测的输出规模）")
+    A6-.->|解释|A61>"许多Agent会自动截断超出阈值（例如，10-30K字符）的工具输出，
+    可能会丢失关键信息；
+    如果脚本产生大量输出，则默认为摘要或合理的限制，
+    并支持像——offset这样的标志，以便Agent可以在需要时请求更多信息；
+    如果输出很大且不适合分页，则要求Agent传递——output标志，
+    以显式地选择加入标准输出"]
+```
