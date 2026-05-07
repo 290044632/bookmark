@@ -233,7 +233,7 @@
 - `JSON-RPC`：[https://www.jsonrpc.org/](https://www.jsonrpc.org/)
 - `Skills`：[https://agentskills.io/home](https://agentskills.io/home)
 - `A2A(Agent2Agent Protocol)`：[https://a2a-protocol.org/latest/](https://a2a-protocol.org/latest/)
-- 
+- `RAG(Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks)`：[https://arxiv.org/html/2005.11401v4](https://arxiv.org/html/2005.11401v4)
 
 > # Frameworks
 
