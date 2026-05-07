@@ -157,6 +157,18 @@ flowchart LR
     （管理上下文）"))
     A-->A1("Protect skill content from context compaction
     （保护skill内容在上下文中不被压缩）")
-        
+       subgraph A11["常用方法"]
+            direction LR
+           A111{{"将skill输出内容标记为受保护的，以便于截取算法跳过"}}
+           A112{{"在压缩过程中识别步骤4结构化标签包裹的内容并保留它"}}
+       end 
+       A1-.->|常用方法|A11
+       
+    A-->A2("Deduplicate activations
+    （去重激活）")   
+    A2-.->A21>"追踪当前会话已激活skills，当模型或用户尝试激活一个已存在上下文的skill时，跳过重新注入"]
 
+    A-->A3("Subagent delegation (optional)
+    （委托子代理）")
+    A3-.->A31>"将skill指令注入到独立的自代理会话中，子代理接收skill指令、执行任务，将执行结果返回给主会话"]
 ```
