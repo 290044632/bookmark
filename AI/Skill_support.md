@@ -170,5 +170,5 @@ flowchart LR
 
     A-->A3("Subagent delegation (optional)
     （委托子代理）")
-    A3-.->A31>"将skill指令注入到独立的自代理会话中，子代理接收skill指令、执行任务，将执行结果返回给主会话"]
+    A3-.->A31>"将skill指令注入到独立的子代理会话中，子代理接收skill指令、执行任务，将执行结果返回给主会话"]
 ```
