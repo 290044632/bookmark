@@ -113,3 +113,50 @@ flowchart LR
     （过滤）")))
     A4-.->A41>"从目录中排除一些skill"]
 ```
+
+```mermaid
+flowchart LR
+    A(("Activate
+    （激活）"))
+    A-->A1((("Model-driven
+     activation
+     （模型驱动）")))
+     A1-->A11("File-read activation
+     （文件读取激活）")
+     A11-->A111>"模型调用标准文件读取工具读取目录中绝对路径的Skill.md"]
+     A11-.->|优点|A112[["不需要其他基础设施，简单"]]
+     A1-->A12("Dedicated tool activation
+     （专用工具激活）")
+     A12-->A121>"注册一个工具，该工具接收一个skill名称并返回其内容"]
+     subgraph A122["优点"]
+         direction LR
+         A1221>"可控制返回的内容"]
+         A1222>"在上下文管理过程中，使用结构化标签包裹内容以进行识别"]
+         A1223>"可在指令旁边列出绑定的资源文件"]
+         A1224>"强制执行权限或提示用户同意"]
+         A1225>"跟踪分析激活情况"]
+     end
+     A12-.->|优点|A122
+
+    A-->A2((("User-explicit
+     activation
+     （用户主动）")))
+     A2-->A21("用户通过定义的语法（如：/skill-name，$skill-name）指定要激活的skill")
+     
+    A-->A3((("What receives
+    （模型接收什么）")))
+    A3-->A31("Full file（整个文件内容）")   
+    A3-->A32("Body only（去除metadata后的指令内容）")
+```
+
+```mermaid
+flowchart LR
+    A(("Manage 
+    skill context
+    over time
+    （管理上下文）"))
+    A-->A1("Protect skill content from context compaction
+    （保护skill内容在上下文中不被压缩）")
+        
+
+```
