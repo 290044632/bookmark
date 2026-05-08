@@ -113,7 +113,7 @@ flowchart LR
     A(("Agentic RAG"))
     subgraph A1["工作流程"]
         direction LR
-        A11("User Input/Question
+        A11("User Question
                 （用户提问）")
         A11-->A12["Agent(LLM)"]
         A12-->A13{"Need external info?
@@ -129,5 +129,46 @@ flowchart LR
         A13-->|No|A16
         A15-.->|No|A12
     end
-A-->A1
+A-->|流程|A1
+```
+
+```mermaid
+flowchart LR
+    A(("Hybrid RAG"))
+    subgraph A1["工作流程"]
+        direction LR
+        A11("User Question
+        （用户提问）")
+        A11-->A12{{"Query Enhancement
+        （查询增强）"}}
+        A12-->A13>"Retrieve Documents
+        （检索文档）"]
+        subgraph A14["Retrieval validation（检索验证）"]
+            A141{"Sufficient Info?
+            （检索结果满足要求）"}
+        end
+        A13-->A141
+        A141-->|Yes|A15[["Generate Answer
+        （生成答案）"]]
+        subgraph A16["Aswer validation（答案验证）"]
+            A161{"Answer Quality OK?
+            （答案质量满足要求）"}
+        end
+        A15-->A16
+        A161-->|Yes|A17["Return Best Answer
+        （返回最佳答案）"]
+        A17-->A18((("Return to user
+        （回答用户）")))
+        A161-.->|No|A19{"Try Different Approach?
+        （尝试其他方式）"}
+        A19-->|Yes|A20{{"Refine Query
+        （优化查询）"}}
+        A19-.->|No|A17
+        A141-.->|No|A20
+        A20-->A13
+    end
+    A-->|流程|A1
+
+classDef add color:red,stroke:red
+class A12,A14,A16,A141,A161 add
 ```
