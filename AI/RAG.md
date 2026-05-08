@@ -69,7 +69,7 @@ flowchart LR
     A1-.->|特点|A12
     
     A-->|2|A2((("Agentic RAG
-    （代理式RAG）")))
+    （智能RAG）")))
     A2-.->|解释|A21>"基于LLM的智能体在推理过程中决定何时以及如何检索信息"]
     subgraph A22["特点"]
         direction TB
@@ -89,4 +89,45 @@ flowchart LR
         A323{{"延迟可变"}}
     end
     A3-.->|特点|A32
+```
+
+```mermaid
+flowchart LR
+    A(("2-Step RAG"))
+    subgraph A1["工作流程"]
+       direction LR
+        A11("User Question
+                （用户提问）")
+        A11-->A12{{"Retrieve Relevant Documents
+        （检索相关文档）"}}
+        A12-->A13[["Generate Answer
+        （生成答案）"]]
+        A13-->A14((("Return Answer to User
+        （回答用户答案）")))
+    end
+    A-->|流程|A1
+```
+
+```mermaid
+flowchart LR
+    A(("Agentic RAG"))
+    subgraph A1["工作流程"]
+        direction LR
+        A11("User Input/Question
+                （用户提问）")
+        A11-->A12["Agent(LLM)"]
+        A12-->A13{"Need external info?
+        （是否需要外部信息）"}
+        A13-->|Yes|A14{{"Search using tools
+        （查找使用工具）"}}
+        A14-->A15{"Enough to answer?
+        （是否满足答案）"}
+        A15-->|Yes|A16[["Generate final answer
+        （生成最终答案）"]]
+        A16-->A17((("Return to user
+        （回答用户）")))
+        A13-->|No|A16
+        A15-.->|No|A12
+    end
+A-->A1
 ```
