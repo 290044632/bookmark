@@ -61,7 +61,7 @@ flowchart LR
     （两阶段RAG）")))
     A1-.->|解释|A11>"检索总是发生在生成之前，简单且可预测"]
     subgraph A12["特点"]
-        direction LR
+        direction TB
         A121{{"自主控制能力强"}}
         A122{{"灵活性差"}}
         A123{{"延迟低"}}
@@ -72,7 +72,7 @@ flowchart LR
     （代理式RAG）")))
     A2-.->|解释|A21>"基于LLM的智能体在推理过程中决定何时以及如何检索信息"]
     subgraph A22["特点"]
-        direction LR
+        direction TB
         A221{{"自主控制能力弱"}}
         A222{{"灵活性高"}}
         A223{{"延迟可变"}}
@@ -83,7 +83,7 @@ flowchart LR
     （混合模式）")))
     A3-.->|解释|A31>"结合1,2方法的特点，并加入验证步骤"]
     subgraph A32["特点"]
-        direction LR
+        direction TB
         A321{{"自主控制能力中等"}}
         A322{{"灵活性中等"}}
         A323{{"延迟可变"}}
