@@ -46,3 +46,18 @@ flowchart LR
     A52-.->A521>"抛出OutOfMemoryError"]
     A53-.->A521
 ```
+
+```mermaid
+flowchart LR
+    A["Heap
+    （JVM堆）"]
+    A-->A1{{"所有线程（Thread）共享"}}
+    A1-.->A11>"存储所有类（classs）实例和数组（array）所需内存的来源"]
+    A-->A2{{"对象存储空间由垃圾回收器（garbage collector，gc）回收，对象永远不会被显示释放"}}
+    A-->A3{{"堆的内存不必连续"}}
+    A3-.->A31>"固定大小内存"]
+    A3-.->A32>"动态内存（根据计算需要扩展或收缩）"]
+    A-->A4[["Exception"]]
+    A4-.->A41>"计算需要的堆内存超过自动存储管理系统（gc）所能提供的内存"]
+    A41-.->A411>"抛出OutOfMemoryError"]
+```
