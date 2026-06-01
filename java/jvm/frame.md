@@ -17,6 +17,8 @@ flowchart LR
     A42-->A400
 ```
 
+![帧执行过程](frame.png)
+
 
 
 
