@@ -1,0 +1,1 @@
+{"indexed_fields":{"user_id":{"type":"keyword","is_tenant":true,"on_disk":false}},"indexed_types":{"user_id":[{"index_type":"keyword_index","mutability":"mutable","storage_type":"gridstore"},{"index_type":"null_index","mutability":"mutable","storage_type":{"mmap":{"is_on_disk":false}}}]}}
