@@ -37,4 +37,23 @@ flowchart LR
     class A3,A4 optional
     class A5,A51 optional_red
 ```
+```mermaid
+flowchart LR
+    A["Response Object"]
+    A-->A1(("jsonrpc"))-->A11>"协议版本，字符串格式，必须为2.0（1.0版本没有该字段）"]
+    A-->A2(("id"))-->A21>"必须属性，且值与Request Object值相同"]
+    A-->|success|A3(("result"))-->A31>"响应参数，具体类型有服务器实现者确定，请求处理成功时必须存在"]
+    A-->|error|A4(("error"))-->A41>"错误信息，Error Object类型，请求处理失败时必须存在"]
 
+    classDef remind  color:red,stroke:red
+    class A3,A4 remind
+```
+```mermaid
+flowchart LR
+    A["Error Object"]
+    A-->A1(("code"))-->A11>"错误码，整数类型"]
+    A-->A2(("message"))-->A21>"错误描述"]
+    A-->A3(("data"))-->A31>"附加信息，原始类型或结构化类型"]
+    classDef optional stroke-dasharray: 5 5
+    class A3 optional
+```
