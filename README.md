@@ -1,4 +1,4 @@
-<img width="294" height="394" alt="image" src="https://github.com/user-attachments/assets/6ea26725-fde8-4d09-960d-590f33e97f97" /># Program Language
+# Program Language
 
 > # Java
 
