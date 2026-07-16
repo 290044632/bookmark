@@ -52,3 +52,5 @@ flowchart LR
 
     A --> Structure
 ```
+
+![核心概念](A2A.concepts.png)
