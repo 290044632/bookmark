@@ -243,6 +243,7 @@
 - `DJL(Deep Java Library)`：[https://docs.djl.ai/master/docs/load_model.html](https://docs.djl.ai/master/docs/load_model.html)
 - `Langchain`：[https://docs.langchain.com/](https://docs.langchain.com/)
 - `Llamaindex`：[https://developers.llamaindex.ai/](https://developers.llamaindex.ai/)
+- `Langchain4j`：[https://docs.langchain4j.dev/intro](https://docs.langchain4j.dev/intro)
 
 # Flash（Hardware/Software）
 
