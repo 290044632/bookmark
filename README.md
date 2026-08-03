@@ -304,3 +304,4 @@
 - `成都市人才认定申报系统`：[https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html](https://cdrc.cdrsigc.com:8006/rc/ggfw/pc/index.html)
 - `中国人事考试网`：[http://www.cpta.com.cn/](http://www.cpta.com.cn/)
 - `全国人力资源和社会保障政务服务平台`：[https://www.12333.gov.cn/](https://www.12333.gov.cn/)
+- `全国标准信息公共服务平台`：[https://std.samr.gov.cn/](https://std.samr.gov.cn/)
