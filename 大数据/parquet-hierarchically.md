@@ -1,3 +1,5 @@
+![file layout](parquet-FileLayout.gif)
+
 ```mermaid
 treeView-beta
 ├── Parquet File  // Parquet文件
