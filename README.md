@@ -286,6 +286,12 @@
 
 - `大模型ACP认证教程`：[大模型ACP认证教程](https://atomgit.com/alibabaclouddocs/aliyun_acp_learning/blob/main/%E5%A4%A7%E6%A8%A1%E5%9E%8BACP%E8%AE%A4%E8%AF%81%E6%95%99%E7%A8%8B/p1_%E8%AF%BE%E7%A8%8B%E5%87%86%E5%A4%87/README.md)
 
+# 大数据
+
+  - `Apache Parquet`：[https://parquet.apache.org/docs/](https://parquet.apache.org/docs/)
+  - `Apache ORC`：[https://orc.apache.org/specification/](https://orc.apache.org/specification/)
+  - `HDFS`：[https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Introduction](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Introduction)
+
 # 政府网站
 
 - `中华人民共和国人力资源和社会保障部`：[https://www.mohrss.gov.cn//xxgk2020/](https://www.mohrss.gov.cn//xxgk2020/)
