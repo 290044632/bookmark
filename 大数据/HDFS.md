@@ -14,6 +14,7 @@ graph LR
 ```mermaid
 graph TB
     A("NameNode")
+    A-->|"arbitrator and repository（裁定和存储）"|A1["Metadata（Name,replicas,...）"]
     subgraph "DataNodeN"
         direction RL
         B11["block 1"]
@@ -31,4 +32,30 @@ graph TB
     A-->|2. Return DataNode list（返回操作的DataNode列表）|C
     C-->|3.Read/Write data（读写数据）|B21
     
+```
+
+```mermaid
+---
+title: HDFS Safemode
+config:
+  logLevel: 'debug'
+  //theme: 'default'
+  gitGraph:
+    showBranches: true
+    showCommitLabel: true
+    mainBranchName: 'NameNode'
+    rotateCommitLabel: true
+---
+gitGraph
+    commit id:"Started"
+    commit id:"Enter Safemode"
+    branch DataNode
+    commit id:"Report Heartbeat messages"
+    commit id:"Report Blockreport messages"
+    checkout NameNode
+    merge DataNode id:"Receive Heartbeat and Blockreport messages" tag:"Check the percentage of safety block reports"
+    commit id:"Percentage reached" tag: "delay 30 seconds"
+    commit id:"Exit Safemode"
+    commit type:REVERSE id:"Copy replicas"
+
 ```
