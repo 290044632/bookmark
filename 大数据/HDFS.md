@@ -82,6 +82,6 @@ gitGraph
     branch FsImage
     commit id:"Flush new FsImage" tag:"from memory to disk"
     checkout EditLog
-    merge FsImage id:"Truncate old EditLog"
+    merge FsImage id:"Truncate old EditLog" tag: "This Load-to-Flush process is called a Checkpoint"
 
 ```
