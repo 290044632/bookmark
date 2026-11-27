@@ -50,12 +50,38 @@ gitGraph
     commit id:"Started"
     commit id:"Enter Safemode"
     branch DataNode
-    commit id:"Report Heartbeat messages"
+    commit id:"Report Heartbeat messages" tag:"interval 3 seconds"
     commit id:"Report Blockreport messages"
     checkout NameNode
     merge DataNode id:"Receive Heartbeat and Blockreport messages" tag:"Check the percentage of safety block reports"
     commit id:"Percentage reached" tag: "delay 30 seconds"
     commit id:"Exit Safemode"
     commit type:REVERSE id:"Copy replicas"
+
+```
+
+```mermaid
+---
+title: Persistence of File System Metadata
+config:
+  logLevel: 'debug'
+  //theme: 'default'
+  gitGraph:
+    showBranches: true
+    showCommitLabel: true
+    mainBranchName: 'NameNode'
+    rotateCommitLabel: true
+---
+gitGraph
+    commit id: "Edit file system metadata"
+    branch EditLog
+    commit id:"Append to edit log"
+    checkout NameNode
+    merge EditLog id:"Started/Trigger Checkpoint"
+    commit id:"Load FsImage and EditLog" tag:"from disk to memory"
+    branch FsImage
+    commit id:"Flush new FsImage" tag:"from memory to disk"
+    checkout EditLog
+    merge FsImage id:"Truncate old EditLog"
 
 ```
