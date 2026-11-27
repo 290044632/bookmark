@@ -290,7 +290,8 @@
 
   - `Apache Parquet`：[https://parquet.apache.org/docs/](https://parquet.apache.org/docs/)
   - `Apache ORC`：[https://orc.apache.org/specification/](https://orc.apache.org/specification/)
-  - `HDFS`：[https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Introduction](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Introduction)
+  - `Hadoop HDFS`：[https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Introduction](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html#Introduction)
+  - `Hadoop YARN`:[https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html)
 
 # 政府网站
 
