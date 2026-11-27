@@ -85,3 +85,34 @@ gitGraph
     merge FsImage id:"Truncate old EditLog" tag: "This Load-to-Flush process is called a Checkpoint"
 
 ```
+```mermaid
+---
+title: Replication Pipelining（DataNode Replication）
+config:
+  //theme: 'default'
+  gitGraph:
+    showBranches: true
+    showCommitLabel: true
+    mainBranchName: 'client'
+    rotateCommitLabel: true
+    parallelCommits: true
+---
+gitGraph
+    commit id: "Write data"
+    branch NameNode
+    commit id: "Retrieves a list of DataNodes"
+    checkout client
+    merge NameNode
+    commit id: "Write data to DataNode1"
+    branch DataNode1
+    commit id: "Writes each portion to its local repository "
+    commit id: "To next DataNode"
+    branch DataNodeN
+    commit id: "Writes each portion to its local repository ..."
+    commit id: "To next DataNode ..."
+    checkout DataNode1
+    merge DataNodeN
+    checkout client
+    merge DataNode1 id:"Write data ..." tag: "write data ..."
+    
+```
